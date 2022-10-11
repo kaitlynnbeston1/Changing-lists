@@ -1,0 +1,6 @@
+# list of dinner invetees
+dinner_invetees=["Ada Lovelace"], ["Steve Jobs"], ["Bill Gates"]
+# printing invetations, in the style of an email thread.
+print(f"Dear {dinner_invetees[0]}, \n You are invited to attend a dinner with some of the greatest minds in the tech industry. \n Where: 123 somewhere stgreet, San Fransisco, California, United States. \n When: April 1, 2023 \n Please RSVP to the email which sent this invitation. \n Hope to see you there, \n Kaitlynn Beston")
+print(f"Dear {dinner_invetees[1]}, \n You are invited to attend a dinner with some of the greatest minds in the tech industry. \n Where: 123 somewhere stgreet, San Fransisco, California, United States. \n When: April 1, 2023 \n Please RSVP to the email which sent this invitation. \n Hope to see you there, \n Kaitlynn Beston")
+print(f"Dear {dinner_invetees[2]}, \n You are invited to attend a dinner with some of the greatest minds in the tech industry. \n Where: 123 somewhere stgreet, San Fransisco, California, United States. \n When: April 1, 2023 \n Please RSVP to the email which sent this invitation. \n Hope to see you there, \n Kaitlynn Beston")
